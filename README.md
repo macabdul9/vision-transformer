@@ -13,7 +13,7 @@ Implementation of [Vision Transformer](https://arxiv.org/abs/2010.11929) using [
 
 
 ### References
-[1]. Nilsback et al `Automated flower classification over a large number of classes` \
+[1]. Nilsback et al `Automated flower classification over a large number of classes` 
 
 [2]. Alexey Dosovitskiy et al `An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale`
 
