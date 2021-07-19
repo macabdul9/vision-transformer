@@ -5,7 +5,7 @@ Implementation of [Vision Transformer](https://arxiv.org/abs/2010.11929) using [
 
 ![ViT](/assets/model.png "ViT")
 
-### Training Results on Oxford Flower102 dataset
+### Training on Oxford Flower102 dataset
 
 ![ViT](/assets/training.png "ViT")
 
