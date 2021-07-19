@@ -1,5 +1,5 @@
 # vision-transformer
-Implementation of [Vision Transformer](https://arxiv.org/abs/2010.11929) using [PyTorch](), [PyTorch-Lighning] and [WandB]().
+Implementation of [Vision Transformer](https://arxiv.org/abs/2010.11929) using [PyTorch](https://pytorch.org/), [PyTorch-Lighning](https://github.com/PyTorchLightning/pytorch-lightning) and [WandB](https://wandb.ai/).
 
 ### ViT Architecture
 
